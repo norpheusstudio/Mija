@@ -1,0 +1,38 @@
+body {
+  background-color: peachpuff;
+}
+h1 {
+  font-family: Arial;
+  font-weight: lighter;
+  font-size: 200px;
+  padding: 100px 0px 0px 0px;
+}
+h2 {
+  font-family: Arial;
+  font-weight: bold;
+  font-size: 50px;
+  margin: -100px 0px 300px 0px;
+}
+nav {
+  border-radius: 20px;
+  background-color: black;
+  margin: 10px 10px 10px 10px;
+  padding: 2px 1px 2px 1px;
+  opacity: 60%;
+  font-family: Arial;
+  font-weight: initial;
+}
+nav ul li {
+  color: peachpuff;
+  display: inline-table;
+ }
+.list {
+  display: grid;
+  height: 20px;
+  align-content: space-evenly;
+  grid-template-columns: 200px 200px 200px 200px;
+  padding: 20px;
+}
+#index {
+  font-size: 50px;
+}
